@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.24.0/d3-legend.min.js"></script>
+    <title>Pie Chart</title>
+    <style>
+      body {
+        margin: 0px;
+      }
+      .domain {
+        display: none;
+      }
+      .legendCells text {
+        fill: #8E8883;
+        font-size: 18pt;
+        font-family: sans-serif;
+      }
+      .legend-label {
+        fill: #635F5D;
+        font-size: 30pt;
+        font-family: sans-serif;
+      }
+    </style>
+  </head>
+  <body>
+    <svg width="960" height="500"></svg>
+    <script>
+      const pieValue = d => d.value;
+      const colorValue = d => d.entity;
+      const colorLabel = 'Comments';
+      const margin = { left: 70, right: 500, top: 50, bottom: 50 };
+
+      const svg = d3.select('svg');
+      const width = svg.attr('width');
+      const height = svg.attr('height');
+      const innerWidth = width - margin.left - margin.right;
+      const innerHeight = height - margin.top - margin.bottom;
+
+      const pie = d3.pie().value(pieValue);
+      const arc = d3.arc()
+        .innerRadius(innerHeight / 4)
+        .outerRadius(innerHeight / 2);
+
+      const g = svg.append('g')
+          .attr('transform', `translate(${margin.left},${margin.top})`);
+      const pieG = g.append('g')
+          .attr('transform', `translate(${innerWidth / 2 - 10},${innerHeight / 2})`);
+
+      const colorLegendG = g.append('g')
+          .attr('transform', `translate(${innerWidth + 60}, 150)`);
+
+      colorLegendG.append('text')
+          .attr('class', 'legend-label')
+          .attr('x', 10)
+          .attr('y', -40)
+          .text(colorLabel);
+      
+      const colorScale = d3.scaleOrdinal()
+        .range(d3.schemeCategory10);
+
+      const colorLegend = d3.legendColor()
+        .scale(colorScale)
+        .shape('circle');
+
+      const row = d => {
+        d.value = +d.value;
+        return d;
+      };
+
+      d3.csv("csv/comments.csv", row, data => {
+        colorScale.domain(data.map(colorValue));
+
+        const arcs = pie(data);
+
+        pieG.selectAll('path').data(arcs)
+          .enter().append('path')
+            .attr('d', arc)
+            .attr('fill', d => colorScale(colorValue(d.data)));
+
+        colorLegendG.call(colorLegend)
+          .selectAll('.cell text')
+          .attr('dy', '0.1em');
+      });
+    </script>
+  </body>
+</html>
