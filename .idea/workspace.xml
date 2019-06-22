@@ -1,0 +1,1251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="pull-request-analyzer:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b79926b1-a941-492e-b0b9-53b5410c9c35" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/controller/PullRequestController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="56" column="23" selection-start-line="56" selection-end-line="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/analyzer/DeveloperAnalyzer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1020">
+              <caret line="83" column="10" selection-start-line="83" selection-start-column="10" selection-end-line="83" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/analyzer/DataAnalyzer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="35" column="46" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/controller/DeveloperController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2355">
+              <caret line="174" column="68" selection-start-line="174" selection-start-column="68" selection-end-line="174" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/domain/FileData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/dto/FileDTO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/controller/PullRequestAnalysisController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/controller/DeveloperAnalysisController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/loader/BitbucketDataLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1230">
+              <caret line="102" column="72" selection-start-line="102" selection-start-column="72" selection-end-line="102" selection-end-column="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/dto/DeveloperAnalysisDTO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>jpa</find>
+      <find>commit</find>
+      <find>findbyurl</find>
+      <find>getid</find>
+      <find>resttemplate</find>
+      <find>user</find>
+      <find>map</find>
+      <find>developers</find>
+      <find>createHeaders</find>
+      <find>url</find>
+      <find>x.getAuthor</find>
+      <find>long hours</find>
+      <find>longtimeto</find>
+      <find>dateFormat</find>
+      <find>//</find>
+      <find>merge</find>
+      <find>wrong</find>
+      <find>date</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/main/resources/templates</dir>
+      <dir>$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/controller</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/dto/DeveloperActivityDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/dto/OpenPRActivityDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/dto/CommentActivityDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/dto/MergePRActivityDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/dto/CommitActivityDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/dto/ClosePRActivityDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/registry/Commit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/registry/Comment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/dev_activity/ClosePRActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/dev_activity/CommitActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/dev_activity/MergePRActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/dev_activity/OpenPRActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/dev_activity/CommentActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/pr_activity/ClosePRActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/pr_activity/CommentOnPRActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/pr_activity/FollowUpCommitActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/pr_activity/MergePRActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/pr_activity/OpenPRActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/dto/DeveloperAnalysisDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/dto/PullRequestDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/dto/CommentDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/dto/CommitDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/dev_activity/DeveloperActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/dto/PullRequestAnalysisDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/controller/DeveloperAnalysisController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/controller/PullRequestAnalysisController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/ExampleChart.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/PieChartDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/analyzer/DataAnalyzer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/pr_activity/PullRequestActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/pr_activity/PullRequestEvent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/pr_activity/CommentEvent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/analyzer/UserInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/PullRequestAnalyzerApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/analyzer/Option1Page.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/analyzer/MainPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/Starter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/analyzer/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/loader/DataLoader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/loader/GitHubDataLoader.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/registry/PullRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/DataParser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/dto/DTORegistry.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/loader/BitbucketDataLoader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/registry/Developer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/controller/PullRequestController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/analyzer/DeveloperAnalyzer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/analyzer/PullRequestAnalyzer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/controller/DeveloperController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="pull-request-analyzer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="pull-request-analyzer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="714" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pull-request-analyzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pull-request-analyzer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pull-request-analyzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pull-request-analyzer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pull-request-analyzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pull-request-analyzer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pull-request-analyzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pull-request-analyzer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pull-request-analyzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pull-request-analyzer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pullrequestanalyzer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pull-request-analyzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pull-request-analyzer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pullrequestanalyzer" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pull-request-analyzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pull-request-analyzer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pullrequestanalyzer" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="DeveloperController.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="pull-request-analyzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pull-request-analyzer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pullrequestanalyzer" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pull-request-analyzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pull-request-analyzer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pullrequestanalyzer" type="462c0819:PsiDirectoryNode" />
+              <item name="dto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pull-request-analyzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pull-request-analyzer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pullrequestanalyzer" type="462c0819:PsiDirectoryNode" />
+              <item name="logic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pull-request-analyzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pull-request-analyzer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pullrequestanalyzer" type="462c0819:PsiDirectoryNode" />
+              <item name="logic" type="462c0819:PsiDirectoryNode" />
+              <item name="analyzer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pull-request-analyzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pull-request-analyzer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pullrequestanalyzer" type="462c0819:PsiDirectoryNode" />
+              <item name="logic" type="462c0819:PsiDirectoryNode" />
+              <item name="loader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pull-request-analyzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pull-request-analyzer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pullrequestanalyzer" type="462c0819:PsiDirectoryNode" />
+              <item name="logic" type="462c0819:PsiDirectoryNode" />
+              <item name="loader" type="462c0819:PsiDirectoryNode" />
+              <item name="GitHubDataLoader.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="pull-request-analyzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pull-request-analyzer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pullrequestanalyzer" type="462c0819:PsiDirectoryNode" />
+              <item name="registry" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pull-request-analyzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="pull-request-analyzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:5.1.3.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="pull-request-analyzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:5.1.3.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-aop-5.1.3.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pull-request-analyzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:5.1.3.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-aop-5.1.3.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pull-request-analyzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:5.1.3.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-aop-5.1.3.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pull-request-analyzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-aop:5.1.3.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-aop-5.1.3.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="interceptor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pull-request-analyzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-core:5.1.3.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="pull-request-analyzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-core:5.1.3.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-core-5.1.3.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pull-request-analyzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-core:5.1.3.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-core-5.1.3.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pull-request-analyzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-core:5.1.3.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-core-5.1.3.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="cglib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pull-request-analyzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-core:5.1.3.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-core-5.1.3.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="cglib" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553202475017" />
+    <property name="exceptions_db_version" value="1" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.analyzer.pullrequestanalyzer" />
+      <recent name="org.analyzer.pullrequestanalyzer.logic.analyzer" />
+      <recent name="org.analyzer.pullrequestanalyzer.logic" />
+      <recent name="org.analyzer.pullrequestanalyzer.logic.loader" />
+      <recent name="org.analyzer.pullrequestanalyzer.loader" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.analyzer.pullrequestanalyzer.web" />
+      <recent name="org.analyzer.pullrequestanalyzer.domain" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="PullRequestAnalyzerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="pull-request-analyzer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.analyzer.pullrequestanalyzer.PullRequestAnalyzerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b79926b1-a941-492e-b0b9-53b5410c9c35" name="Default Changelist" comment="" />
+      <created>1543935788042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543935788042</updated>
+      <workItem from="1543935795380" duration="76000" />
+      <workItem from="1543935888730" duration="5933000" />
+      <workItem from="1544013153013" duration="391000" />
+      <workItem from="1544119053418" duration="69000" />
+      <workItem from="1544185461115" duration="2690000" />
+      <workItem from="1544542655191" duration="2745000" />
+      <workItem from="1544553824633" duration="4000" />
+      <workItem from="1545040725827" duration="4023000" />
+      <workItem from="1545138926407" duration="1805000" />
+      <workItem from="1545161157108" duration="96000" />
+      <workItem from="1548931502692" duration="1278000" />
+      <workItem from="1549280577508" duration="993000" />
+      <workItem from="1549298206747" duration="2301000" />
+      <workItem from="1549382382557" duration="2326000" />
+      <workItem from="1549442923507" duration="6881000" />
+      <workItem from="1549452731249" duration="60000" />
+      <workItem from="1549470231632" duration="41000" />
+      <workItem from="1549470303265" duration="10632000" />
+      <workItem from="1549532366877" duration="92000" />
+      <workItem from="1549564178484" duration="3611000" />
+      <workItem from="1549570686972" duration="527000" />
+      <workItem from="1549636713403" duration="15061000" />
+      <workItem from="1549797048521" duration="2306000" />
+      <workItem from="1549801767961" duration="4241000" />
+      <workItem from="1549808235816" duration="3673000" />
+      <workItem from="1549819802880" duration="2210000" />
+      <workItem from="1549829147745" duration="3349000" />
+      <workItem from="1549884153467" duration="2298000" />
+      <workItem from="1549887595573" duration="114000" />
+      <workItem from="1549894926646" duration="462000" />
+      <workItem from="1549897142185" duration="845000" />
+      <workItem from="1550604908554" duration="301000" />
+      <workItem from="1550860347639" duration="927000" />
+      <workItem from="1550906975058" duration="125000" />
+      <workItem from="1550929642945" duration="589000" />
+      <workItem from="1551009769435" duration="6000" />
+      <workItem from="1551011701542" duration="7289000" />
+      <workItem from="1551024404829" duration="1300000" />
+      <workItem from="1551025889246" duration="2968000" />
+      <workItem from="1551034463215" duration="2853000" />
+      <workItem from="1551038011108" duration="2362000" />
+      <workItem from="1551095757991" duration="118000" />
+      <workItem from="1551172028928" duration="1951000" />
+      <workItem from="1551174510200" duration="1173000" />
+      <workItem from="1551175714069" duration="913000" />
+      <workItem from="1551203752708" duration="10000" />
+      <workItem from="1551203795165" duration="4622000" />
+      <workItem from="1551215914961" duration="2273000" />
+      <workItem from="1551251653499" duration="4336000" />
+      <workItem from="1551264773137" duration="2121000" />
+      <workItem from="1551269215649" duration="794000" />
+      <workItem from="1551270042876" duration="5476000" />
+      <workItem from="1551295780120" duration="1481000" />
+      <workItem from="1551298841576" duration="788000" />
+      <workItem from="1551369022591" duration="6707000" />
+      <workItem from="1551619079883" duration="6010000" />
+      <workItem from="1551881605387" duration="3007000" />
+      <workItem from="1551886265748" duration="4044000" />
+      <workItem from="1551898501195" duration="6454000" />
+      <workItem from="1552371763213" duration="191000" />
+      <workItem from="1552371970765" duration="35000" />
+      <workItem from="1552420687330" duration="2531000" />
+      <workItem from="1552425285258" duration="83000" />
+      <workItem from="1552465536935" duration="4645000" />
+      <workItem from="1552486014602" duration="3704000" />
+      <workItem from="1552510542210" duration="107000" />
+      <workItem from="1552590087446" duration="2987000" />
+      <workItem from="1552630547265" duration="303000" />
+      <workItem from="1552634709827" duration="4181000" />
+      <workItem from="1552812531376" duration="12752000" />
+      <workItem from="1553028892813" duration="203000" />
+      <workItem from="1553111138039" duration="682000" />
+      <workItem from="1553175466782" duration="4406000" />
+      <workItem from="1553192449540" duration="6368000" />
+      <workItem from="1553248843105" duration="9013000" />
+      <workItem from="1553437002798" duration="2651000" />
+      <workItem from="1553715287981" duration="70000" />
+      <workItem from="1553715388563" duration="43000" />
+      <workItem from="1554299693042" duration="61000" />
+      <workItem from="1554299848257" duration="1898000" />
+      <workItem from="1554368520009" duration="9306000" />
+      <workItem from="1554747484584" duration="1057000" />
+      <workItem from="1554830878189" duration="6294000" />
+      <workItem from="1555414672165" duration="13248000" />
+      <workItem from="1555524671351" duration="2763000" />
+      <workItem from="1555596712896" duration="2193000" />
+      <workItem from="1555861496505" duration="299000" />
+      <workItem from="1555926699907" duration="10364000" />
+      <workItem from="1555953363822" duration="28000" />
+      <workItem from="1555953424943" duration="7578000" />
+      <workItem from="1556008844129" duration="5683000" />
+      <workItem from="1556014824481" duration="207000" />
+      <workItem from="1556015047926" duration="1160000" />
+      <workItem from="1556019478813" duration="7249000" />
+      <workItem from="1556030662615" duration="4929000" />
+      <workItem from="1556134595523" duration="2484000" />
+      <workItem from="1556179792576" duration="11035000" />
+      <workItem from="1556221225314" duration="4717000" />
+      <workItem from="1556347453282" duration="5181000" />
+      <workItem from="1556705169936" duration="8179000" />
+      <workItem from="1556725864250" duration="5073000" />
+      <workItem from="1556811457975" duration="12859000" />
+      <workItem from="1556870366977" duration="3260000" />
+      <workItem from="1556874503149" duration="1096000" />
+      <workItem from="1556884019017" duration="2176000" />
+      <workItem from="1556972814884" duration="239000" />
+      <workItem from="1556974694407" duration="5505000" />
+      <workItem from="1556987092169" duration="6387000" />
+      <workItem from="1557053345653" duration="5435000" />
+      <workItem from="1557061375493" duration="2386000" />
+      <workItem from="1557140770575" duration="14340000" />
+      <workItem from="1557169858033" duration="5669000" />
+      <workItem from="1557241904659" duration="16000" />
+      <workItem from="1557248172612" duration="11078000" />
+      <workItem from="1557302257527" duration="4747000" />
+      <workItem from="1557330309491" duration="8616000" />
+      <workItem from="1557407989564" duration="14489000" />
+      <workItem from="1557823665549" duration="16440000" />
+      <workItem from="1557869349673" duration="307000" />
+      <workItem from="1557904965813" duration="31000" />
+      <workItem from="1557908089569" duration="6948000" />
+      <workItem from="1557918391490" duration="2936000" />
+      <workItem from="1558019140644" duration="6240000" />
+      <workItem from="1558075989682" duration="17506000" />
+      <workItem from="1558191213163" duration="8118000" />
+      <workItem from="1558250410338" duration="11369000" />
+      <workItem from="1558268023701" duration="437000" />
+      <workItem from="1558268478164" duration="2814000" />
+      <workItem from="1558278729255" duration="1387000" />
+      <workItem from="1558362865313" duration="450000" />
+      <workItem from="1558458342382" duration="1052000" />
+      <workItem from="1558466059605" duration="238000" />
+      <workItem from="1558518583945" duration="4215000" />
+      <workItem from="1558606653700" duration="1676000" />
+      <workItem from="1558630821579" duration="1866000" />
+      <workItem from="1558639052054" duration="555000" />
+      <workItem from="1558684897714" duration="3487000" />
+      <workItem from="1558779955645" duration="9000" />
+      <workItem from="1558779980854" duration="2370000" />
+      <workItem from="1558801628816" duration="5278000" />
+      <workItem from="1558953852663" duration="6543000" />
+      <workItem from="1558970634012" duration="357000" />
+      <workItem from="1558971094088" duration="951000" />
+      <workItem from="1558972146576" duration="1160000" />
+      <workItem from="1558975591050" duration="186000" />
+      <workItem from="1558975886815" duration="83000" />
+      <workItem from="1558976341072" duration="195000" />
+      <workItem from="1558987172055" duration="2460000" />
+      <workItem from="1559058698046" duration="409000" />
+      <workItem from="1559059993315" duration="1529000" />
+      <workItem from="1559129891132" duration="6535000" />
+      <workItem from="1559145535308" duration="25000" />
+      <workItem from="1559145630405" duration="7681000" />
+      <workItem from="1559157081403" duration="3462000" />
+      <workItem from="1559201450259" duration="2610000" />
+      <workItem from="1559211713058" duration="5645000" />
+      <workItem from="1559234481016" duration="153000" />
+      <workItem from="1559245390091" duration="2224000" />
+      <workItem from="1559309908331" duration="2256000" />
+      <workItem from="1559330103995" duration="5031000" />
+      <workItem from="1559477973584" duration="12000" />
+      <workItem from="1559478001854" duration="2765000" />
+      <workItem from="1559489617454" duration="1927000" />
+      <workItem from="1559642934196" duration="7215000" />
+      <workItem from="1559723012117" duration="11592000" />
+      <workItem from="1559751112105" duration="2325000" />
+      <workItem from="1559764766399" duration="1314000" />
+      <workItem from="1559808270797" duration="726000" />
+      <workItem from="1559813642053" duration="805000" />
+      <workItem from="1559820926916" duration="275000" />
+      <workItem from="1559827242373" duration="364000" />
+      <workItem from="1559831852676" duration="6523000" />
+      <workItem from="1559922908159" duration="15851000" />
+      <workItem from="1560169922321" duration="1524000" />
+      <workItem from="1560172878403" duration="870000" />
+      <workItem from="1560194551067" duration="130000" />
+      <workItem from="1560237020743" duration="1617000" />
+      <workItem from="1560523230392" duration="370000" />
+      <workItem from="1560940003823" duration="286000" />
+      <workItem from="1561205493904" duration="339000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="618424000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28612304" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32961586" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.49814126" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40768278" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32961586" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.22800496" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32961586" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32961586" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.3283767" />
+      <window_info anchor="bottom" id="Problems" order="15" />
+      <window_info anchor="bottom" id="Issues" order="16" />
+      <window_info anchor="bottom" id="Duplicates" order="17" weight="0.32961586" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.14377682" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3297568" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.3297568" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="((PullRequest)((java.util.ArrayList)((PullRequestRegistry)((DeveloperAnalyzer)this).pullRequestRegistry).pullRequests).get(96)).creatorDev" custom="org.analyzer.pullrequestanalyzer.registry.PullRequest,org.analyzer.pullrequestanalyzer.logic.analyzer.DeveloperAnalyzer,java.util.ArrayList,org.analyzer.pullrequestanalyzer.registry.PullRequestRegistry" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pull_request_analyzer$PullRequestAnalyzerApplication.ic" NAME="PullRequestAnalyzerApplication Coverage Results" MODIFIED="1557175641078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>days =</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/pr_activity/PullRequestEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="81" selection-start-line="12" selection-start-column="81" selection-end-line="12" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/pr_activity/MergeEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/pr_activity/FollowUpCommitEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/pr_activity/CommentEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/dto/DeveloperDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/dto/CommitDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/PieChartDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/controller/FileController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/analyzer/Option1Page.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/awt/Container.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15240">
+          <caret line="1092" selection-start-line="1092" selection-end-line="1092" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/eclipse/mylyn/github/org.eclipse.egit.github.core/2.1.5/org.eclipse.egit.github.core-2.1.5-sources.jar!/org/eclipse/egit/github/core/service/PullRequestService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1635">
+          <caret line="149" column="29" selection-start-line="149" selection-start-column="29" selection-end-line="149" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/eclipse/mylyn/github/org.eclipse.egit.github.core/2.1.5/org.eclipse.egit.github.core-2.1.5-sources.jar!/org/eclipse/egit/github/core/client/GitHubClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10260">
+          <caret line="739" column="14" selection-start-line="739" selection-start-column="14" selection-end-line="739" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/eclipse/mylyn/github/org.eclipse.egit.github.core/2.1.5/org.eclipse.egit.github.core-2.1.5-sources.jar!/org/eclipse/egit/github/core/service/RepositoryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8100">
+          <caret line="605" column="35" selection-start-line="605" selection-start-column="35" selection-end-line="605" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/Starter.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/analyzer/pullrequestanalyzer/PullRequestAnalyzerApplicationTests.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/PullRequestAnalyzerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="79" column="24" selection-start-line="79" selection-start-column="24" selection-end-line="79" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/controller/CommitController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/registry/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/controller/CommentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/dto/CommentDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/registry/DeveloperRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/registry/PullRequestRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/registry/Comment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/dto/PullRequestDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="25" column="81" selection-start-line="25" selection-start-column="81" selection-end-line="25" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/dto/PullRequestAnalysisDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="61" column="1" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.3.RELEASE/spring-web-5.1.3.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114">
+          <caret line="188" selection-start-line="188" selection-end-line="188" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/analysis/PullRequestAnalysis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/dto/DTORegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/analysis/DeveloperAnalysis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/loader/DataLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="64" column="92" selection-start-line="64" selection-start-column="92" selection-end-line="64" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4200">
+          <caret line="298" selection-start-line="298" selection-end-line="298" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.3.RELEASE/spring-core-5.1.3.RELEASE-sources.jar!/org/springframework/cglib/proxy/MethodProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="220" selection-start-line="220" selection-end-line="220" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.1.3.RELEASE/spring-aop-5.1.3.RELEASE-sources.jar!/org/springframework/aop/interceptor/AsyncExecutionInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="123" selection-start-line="123" selection-end-line="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/DataParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2610">
+          <caret line="190" column="148" selection-start-line="190" selection-start-column="148" selection-end-line="190" selection-end-column="148" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/registry/Developer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="86" column="16" selection-start-line="86" selection-start-column="16" selection-end-line="86" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/registry/PullRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="78" column="18" selection-start-line="78" selection-start-column="18" selection-end-line="78" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/loader/GitHubDataLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="103" column="17" selection-start-line="103" selection-start-column="17" selection-end-line="103" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/analyzer/PullRequestAnalyzer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="93" column="10" selection-start-line="93" selection-start-column="10" selection-end-line="93" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/analyzer/Statistics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="48" column="107" selection-start-line="47" selection-start-column="8" selection-end-line="48" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/controller/PullRequestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="56" column="23" selection-start-line="56" selection-end-line="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/analyzer/DeveloperAnalyzer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="83" column="10" selection-start-line="83" selection-start-column="10" selection-end-line="83" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/analyzer/DataAnalyzer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="35" column="46" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/controller/DeveloperController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2355">
+          <caret line="174" column="68" selection-start-line="174" selection-start-column="68" selection-end-line="174" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/domain/FileData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/controller/PullRequestAnalysisController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/controller/DeveloperAnalysisController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/logic/loader/BitbucketDataLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="102" column="72" selection-start-line="102" selection-start-column="72" selection-end-line="102" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/dto/DeveloperAnalysisDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/analyzer/pullrequestanalyzer/dto/FileDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>pull-request-analyzer:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

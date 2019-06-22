@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: org.analyzer.pullrequestanalyzer.PullRequestAnalyzerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 4.897 s <<< FAILURE! - in org.analyzer.pullrequestanalyzer.PullRequestAnalyzerApplicationTests
+contextLoads(org.analyzer.pullrequestanalyzer.PullRequestAnalyzerApplicationTests)  Time elapsed: 0.011 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'main' defined in file [/Users/Rares/Desktop/Intellij Projects/pull-request-analyzer/target/classes/org/analyzer/pullrequestanalyzer/Main.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.analyzer.pullrequestanalyzer.Main]: Constructor threw exception; nested exception is java.awt.HeadlessException
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.analyzer.pullrequestanalyzer.Main]: Constructor threw exception; nested exception is java.awt.HeadlessException
+Caused by: java.awt.HeadlessException
+
